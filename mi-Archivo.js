@@ -1,2 +1,2 @@
 alert("Hello World!");
-console.log("Cambios en el nombre del archivo 1")
+console.log("Cambios en el nombre del archivo 1 2")
